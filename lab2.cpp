@@ -32,7 +32,7 @@ tuple<T, double, T> calculateStatsTemplate(T a, T b, T c) {
 
 int main() {
     int num1, num2, num3;
-    cout << "Введіть три числа: ";
+    cout << "Введіть три числа:ggggg ";
     cin >> num1 >> num2 >> num3;
 
     // Викликаємо звичайну функцію та отримуємо результати
